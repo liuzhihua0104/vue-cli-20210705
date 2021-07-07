@@ -1,7 +1,9 @@
 <template>
   <el-container>
     <el-header>Header</el-header>
-    <el-main>Main</el-main>
+    <el-main>
+      <van-button type="primary">1234646</van-button>
+    </el-main>
     <el-footer>Footer</el-footer>
   </el-container>
 
