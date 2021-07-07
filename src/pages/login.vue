@@ -26,12 +26,14 @@ export default {
   height: 100%;
   display: flex;
   flex-direction: column;
+  font-size:0.32rem;
 
   .el-header,
   .el-footer {
     background-color: skyblue;
     color: #333;
     text-align: center;
+    height:1rem !important;
   }
 
   .el-main {
